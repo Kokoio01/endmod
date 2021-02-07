@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "endmod:blocks/ender_planks",
+    "top": "endmod:blocks/ender_planks",
+    "side": "endmod:blocks/ender_planks"
+  }
+}

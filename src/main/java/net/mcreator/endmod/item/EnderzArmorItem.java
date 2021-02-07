@@ -40,7 +40,7 @@ public class EnderzArmorItem extends EndmodModElements.ModElement {
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{105, 121, 86, 71}[slot.getIndex()];
+				return new int[]{125, 200, 86, 150}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {

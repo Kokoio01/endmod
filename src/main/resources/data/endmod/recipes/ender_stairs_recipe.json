@@ -1,0 +1,33 @@
+{
+  "group": "endmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "endmod:ender_planks"
+    },
+    "3": {
+      "item": "endmod:ender_planks"
+    },
+    "4": {
+      "item": "endmod:ender_planks"
+    },
+    "6": {
+      "item": "endmod:ender_planks"
+    },
+    "7": {
+      "item": "endmod:ender_planks"
+    },
+    "8": {
+      "item": "endmod:ender_planks"
+    }
+  },
+  "result": {
+    "item": "endmod:ender_stairs",
+    "count": 4
+  }
+}

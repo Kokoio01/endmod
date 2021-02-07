@@ -1,0 +1,447 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EnderzIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ingot"
+    },
+    {
+      "name": "EnderzOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore"
+    },
+    {
+      "name": "EnderzBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_block"
+    },
+    {
+      "name": "EnderzOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore_block_recipe"
+    },
+    {
+      "name": "EnderzBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_block_ore_recipe"
+    },
+    {
+      "name": "EnderzOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore_smelting"
+    },
+    {
+      "name": "EnderzArmor",
+      "type": "armor",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "EnderzArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_armor_helmet_recipe"
+    },
+    {
+      "name": "EnderzArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_armor_body_recipe"
+    },
+    {
+      "name": "EnderzArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_armor_leggings_recipe"
+    },
+    {
+      "name": "EnderzArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_armor_boots_recipe"
+    },
+    {
+      "name": "Endermod",
+      "type": "tab",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endermod"
+    },
+    {
+      "name": "EnderzPickaxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_pickaxe"
+    },
+    {
+      "name": "EnderzAxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_axe"
+    },
+    {
+      "name": "EnderzSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_sword"
+    },
+    {
+      "name": "EnderzShovel",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_shovel"
+    },
+    {
+      "name": "EnderzHoe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_hoe"
+    },
+    {
+      "name": "EnderzPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_pickaxe_recipe"
+    },
+    {
+      "name": "EnderzAxeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_axe_recipe"
+    },
+    {
+      "name": "EnderzSwordRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_sword_recipe"
+    },
+    {
+      "name": "EnderzShovelRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_shovel_recipe"
+    },
+    {
+      "name": "EnderzHoeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_hoe_recipe"
+    },
+    {
+      "name": "EnderzSwordRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_sword_right_clicked_on_block",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "EnderzSwordRightClickedInAir",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_sword_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnderWood",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_wood"
+    },
+    {
+      "name": "EnderLog",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_log"
+    },
+    {
+      "name": "EnderPlanks",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_planks"
+    },
+    {
+      "name": "EnderLeaves",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_leaves"
+    },
+    {
+      "name": "EnderStairs",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stairs"
+    },
+    {
+      "name": "EnderSlab",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_slab"
+    },
+    {
+      "name": "EnderFence",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence"
+    },
+    {
+      "name": "EnderFenceGate",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_gate"
+    },
+    {
+      "name": "EnderItemsTag",
+      "type": "tag",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_items_tag"
+    },
+    {
+      "name": "EnderWoodRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_wood_recipe"
+    },
+    {
+      "name": "EnderPlanksRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_planks_recipe"
+    },
+    {
+      "name": "EnderStairsRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stairs_recipe"
+    },
+    {
+      "name": "EnderSlabRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_slab_recipe"
+    },
+    {
+      "name": "EnderFenceRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_recipe"
+    },
+    {
+      "name": "EnderFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_fence_gate_recipe"
+    },
+    {
+      "name": "EnderStickRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ender_stick_recipe"
+    },
+    {
+      "name": "Endbiom",
+      "type": "biome",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endbiom"
+    },
+    {
+      "name": "Endererz",
+      "type": "achievement",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "endererz"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.endmod.ender_leaves": "Ender Leaves",
+      "itemGroup.tabendermod": "Endermod",
+      "block.endmod.ender_planks": "Ender Planks",
+      "item.endmod.enderz_ingot": "Enderz",
+      "block.endmod.enderz_ore": "Enderz Ore",
+      "item.endmod.enderz_shovel": "Enderz Shovel",
+      "advancements.endererz.title": "Endererz",
+      "item.endmod.enderz_axe": "Enderz Axe",
+      "advancements.endererz.descr": "Hole das Endererz",
+      "item.endmod.enderz_pickaxe": "Enderz Pickaxe",
+      "item.endmod.enderz_armor_leggings": "Enderz Leggings",
+      "block.endmod.ender_stairs": "Ender Stairs",
+      "item.endmod.enderz_armor_helmet": "Enderz Helmet",
+      "item.endmod.enderz_hoe": "Enderz Hoe",
+      "biome.endmod.endbiom": "Endbiom",
+      "block.endmod.ender_fence_gate": "Ender Fence Gate",
+      "item.endmod.enderz_armor_chestplate": "Enderz Chestplate",
+      "item.endmod.enderz_sword": "Enderz Sword",
+      "block.endmod.enderz_block": "Block of Enderz",
+      "block.endmod.ender_wood": "Ender Wood",
+      "block.endmod.ender_slab": "Ender Slab",
+      "block.endmod.ender_log": "Ender Log",
+      "item.endmod.enderz_armor_boots": "Enderz Boots",
+      "block.endmod.ender_fence": "Ender Fence"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "endmod",
+    "modName": "Endmod",
+    "version": "1.0.0",
+    "author": "Lenny, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.endmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

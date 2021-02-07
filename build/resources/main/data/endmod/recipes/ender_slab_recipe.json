@@ -1,0 +1,22 @@
+{
+  "group": "endmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "endmod:ender_planks"
+    },
+    "1": {
+      "item": "endmod:ender_planks"
+    },
+    "2": {
+      "item": "endmod:ender_planks"
+    }
+  },
+  "result": {
+    "item": "endmod:ender_slab",
+    "count": 6
+  }
+}

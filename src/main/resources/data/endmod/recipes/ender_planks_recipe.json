@@ -1,0 +1,13 @@
+{
+  "group": "endmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ender_log"
+    }
+  ],
+  "result": {
+    "item": "endmod:ender_planks",
+    "count": 4
+  }
+}

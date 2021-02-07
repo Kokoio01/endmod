@@ -28,7 +28,7 @@ public class EnderzPickaxeItem extends EndmodModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 6f;
+				return 51.5f;
 			}
 
 			public float getAttackDamage() {
@@ -46,7 +46,7 @@ public class EnderzPickaxeItem extends EndmodModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(EnderzIngotItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -2.4f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("enderz_pickaxe"));
 	}
 }

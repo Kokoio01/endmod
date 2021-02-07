@@ -1,0 +1,17 @@
+{
+  "_fv": 13,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "enderdisc",
+    "name": "Endmusick",
+    "description": "dastolle",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "block.beehive.work"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

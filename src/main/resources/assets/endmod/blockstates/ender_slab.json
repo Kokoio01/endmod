@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "endmod:block/ender_slab"
+    },
+    "type=top": {
+      "model": "endmod:block/ender_slab_top"
+    },
+    "type=double": {
+      "model": "endmod:block/ender_slab_full"
+    }
+  }
+}
