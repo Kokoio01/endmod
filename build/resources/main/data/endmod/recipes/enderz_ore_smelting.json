@@ -1,0 +1,12 @@
+{
+  "group": "endmod",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "endmod:enderz_ore"
+  },
+  "result": {
+    "item": "endmod:enderz_ingot"
+  }
+}

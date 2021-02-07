@@ -1,0 +1,85 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EnderzIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ingot"
+    },
+    {
+      "name": "EnderzOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore"
+    },
+    {
+      "name": "EnderzBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_block"
+    },
+    {
+      "name": "EnderzOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore_block_recipe"
+    },
+    {
+      "name": "EnderzBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_block_ore_recipe"
+    },
+    {
+      "name": "EnderzOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderz_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.endmod.enderz_ingot": "Enderz",
+      "block.endmod.enderz_ore": "Enderz Ore",
+      "block.endmod.enderz_block": "Block of Enderz"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "endmod",
+    "modName": "Endmod",
+    "version": "1.0.0",
+    "author": "Lenny, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.endmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

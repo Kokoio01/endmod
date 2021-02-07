@@ -1,0 +1,15 @@
+{
+  "itemGroup.tabendermod": "Endermod",
+  "item.endmod.enderz_ingot": "Enderz",
+  "block.endmod.enderz_ore": "Enderz Ore",
+  "item.endmod.enderz_armor_chestplate": "Enderz Chestplate",
+  "item.endmod.enderz_sword": "Enderz Sword",
+  "block.endmod.enderz_block": "Block of Enderz",
+  "item.endmod.enderz_shovel": "Enderz Shovel",
+  "item.endmod.enderz_axe": "Enderz Axe",
+  "item.endmod.enderz_armor_leggings": "Enderz Leggings",
+  "item.endmod.enderz_pickaxe": "Enderz Pickaxe",
+  "item.endmod.enderz_armor_boots": "Enderz Boots",
+  "item.endmod.enderz_armor_helmet": "Enderz Helmet",
+  "item.endmod.enderz_hoe": "Enderz Hoe"
+}

@@ -1,0 +1,36 @@
+{
+  "group": "endmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "endmod:enderz_ingot"
+    },
+    "1": {
+      "item": "endmod:enderz_ingot"
+    },
+    "2": {
+      "item": "endmod:enderz_ingot"
+    },
+    "3": {
+      "item": "endmod:enderz_ingot"
+    },
+    "5": {
+      "item": "endmod:enderz_ingot"
+    },
+    "6": {
+      "item": "endmod:enderz_ingot"
+    },
+    "8": {
+      "item": "endmod:enderz_ingot"
+    }
+  },
+  "result": {
+    "item": "endmod:enderz_armor_leggings",
+    "count": 1
+  }
+}
