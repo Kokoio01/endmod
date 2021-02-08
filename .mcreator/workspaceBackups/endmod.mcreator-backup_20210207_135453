@@ -114,15 +114,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "endermod"
-    },
-    {
-      "name": "Money",
-      "type": "item",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "money"
     }
   ],
   "variable_elements": [],
@@ -135,7 +126,6 @@
       "item.endmod.enderz_armor_leggings": "Enderz Leggings",
       "item.endmod.enderz_armor_chestplate": "Enderz Chestplate",
       "item.endmod.enderz_armor_boots": "Enderz Boots",
-      "item.endmod.money": "Money",
       "block.endmod.enderz_block": "Block of Enderz",
       "item.endmod.enderz_armor_helmet": "Enderz Helmet"
     }
